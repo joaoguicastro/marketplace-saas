@@ -34,6 +34,9 @@ public class EmpresaEntity {
     @Column(name = "EMAIL_EMPRESA",nullable = false)
     private String email;
 
+    @Column(name = "TEL_EMPRESA", nullable = false)
+    private String telefone;
+
     @Enumerated(EnumType.STRING)
     @Column(name = "PLANO_EMPRESA",nullable = false)
     private PlanoEmpresa plano;
@@ -48,4 +51,4 @@ public class EmpresaEntity {
     @Column(name = "DATA_ATUALIZADO_EMPRESA")
     private LocalDateTime atualizado_em;
 
-
+}
