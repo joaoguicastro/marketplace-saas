@@ -193,9 +193,8 @@ Analytics       → MetricaAnuncio, CalculadoraMargem, RegraFrete, Notificacao
 
 > Para mais informações sobre o projeto, proposta de parceria ou participação no programa de pré-aceleração, entre em contato:
 
-- **E-mail:** seuemail@email.com
-- **LinkedIn:** linkedin.com/in/seuperfil
-- **GitHub:** github.com/seuusuario
+- **E-mail:** joaoguicastro100@gmail.com
+- **GitHub:** github.com/joaoguicastro
 
 ---
 
